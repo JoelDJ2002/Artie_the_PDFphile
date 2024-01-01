@@ -1,6 +1,6 @@
 # Artie: The PDFphile
 
-![Artie Logo](artie_logo.png)
+![Artie Logo](Images/artie2.png)
 
 Artie is a PDFphile analyzer designed to streamline the process of analyzing PDF files and providing a chat interface for interacting with multiple PDFs. With Artie, you can quickly extract information from PDF documents and engage in conversations about their contents. This README file provides a comprehensive guide on how to set up Artie and run the application.
 
