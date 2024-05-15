@@ -1,4 +1,4 @@
-# Artie: The PDFphile
+# Artie: The PDF Analyzer
 
 ![Artie Logo](Images/artie2.png)
 
